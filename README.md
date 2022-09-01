@@ -1,2 +1,2 @@
-# HTml-Odev-3
+# HTML-Odev-3
 3rd homework
